@@ -1,8 +1,3 @@
-# 146_CrieNFTPokemonBlockchain
-Crie o seu NFT de Pokémon com Blockchain
-
-
-
 [**](https://web.dio.me/track/formacao-blockchain)
 
 ##### Crie o seu NFT de Pokémon com Blockchain
@@ -15,6 +10,22 @@ Crie o seu NFT de Pokémon com Blockchain
 
 
 
+01:33
+
+ 
+
+31:27
+
+
+
+
+
+
+
+normal
+
+auto
+
 - CONTEÚDOS
 - INFORMAÇÕES
 
@@ -22,5 +33,43 @@ Crie o seu NFT de Pokémon com Blockchain
 
 
 
-https://web.dio.me/lab/crie-o-seu-nft-de-pokemon/learning/0f693c0e-c1d9-40fb-978b-6a8d12424467
+###### DESCRIÇÃO
+
+
+
+------
+
+###### Full-Stack
+
+###### Avançado
+
+------
+
+###### ESPECIALISTA
+
+![author](https://hermes.digitalinnovation.one/users/author/photos/38e0cb81-9697-43c4-8a07-eba1bca6fa6b.jpg)
+
+###### Cassiano Peres
+
+Instrutor, Digital Innovation One[**](https://www.linkedin.com/in/cassiano-ricardo-de-oliveira-peres-41bb86100/) [**](https://github.com/cassianobrexbit/)
+
+
+
+# **Parabéns Por Chegar Até Aqui! Agora é a Sua Hora de Brilhar** [🤩](https://emojipedia.org/star-struck/)
+
+ 
+
+Separamos aqui alguns arquivos úteis e o código fonte do projeto. Sinta-se à vontade para dar um Fork no repositório para desenvolver o seu projeto.
+
+ 
+
+### **Links Úteis**
+
+Respositório GitHub com código do projeto: [Link](https://github.com/digitalinnovationone/formacao-blockchain-dio/tree/main/Modulo 03 Desenvolvimento com Solidity/Curso 03 O mercado de blockchain e criptomoedas/Crie o seu NFT de Pokemon com Blockchain)
+
+ 
+
+Bons estudos 😉
+
+ 
 
